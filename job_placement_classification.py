@@ -51,7 +51,7 @@ from sklearn.naive_bayes import GaussianNB
 df = pd.read_csv("Placement_Data_Full_Class.csv",sep = ",")
 df = df.set_index('sl_no')
 
-
+a = "Test"
 ##########################
 #####               ######
 ##### DATA CLEANING ######
